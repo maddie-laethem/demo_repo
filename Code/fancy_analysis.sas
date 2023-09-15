@@ -1,5 +1,2 @@
-proc my awesome code;
-run;
-
-proc cleaning code;
-run;
+PROC FREQ DATA=df;
+RUN;
